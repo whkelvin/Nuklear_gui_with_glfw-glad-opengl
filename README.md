@@ -159,4 +159,9 @@ Personally, I recomend looking at nuklear\demo\overview.c. It's a great place to
 
 You can find the code above in nk_window.c and nk_overview.c is just overview.c added into the code above
 
-This is also a good link for some code snippets: https://github.com/vurtun/nuklear/wiki
+### Some Useful Links
+https://github.com/vurtun/nuklear/wiki
+
+https://github.com/vurtun/nuklear/issues/226
+
+https://github.com/vurtun/nuklear/issues/374
