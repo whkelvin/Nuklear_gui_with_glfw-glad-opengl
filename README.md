@@ -157,5 +157,4 @@ int main() {
 Now you should be able to add your code in between nk_begin and nk_end to start creating the gui!
 Personally, I recomend looking at nuklear\demo\overview.c. It's a great place to start.
 
-You can find the code above in nk_window.c
-nk_overview.c is just overview.c added into the code above
+You can find the code above in nk_window.c and nk_overview.c is just overview.c added into the code above
